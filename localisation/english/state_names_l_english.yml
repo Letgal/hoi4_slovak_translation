@@ -199,7 +199,7 @@
  STATE_196: "Cherson"
  STATE_197: "Mykolajiv"
  STATE_198: "Vinnycia"
- STATE_199: "Proskuriv" # Chmeľnyckyj
+ STATE_199: "Proskurov" # Chmeľnyckyj
  STATE_200: "Záporožie"
  STATE_201: "Žytomyr"
  STATE_202: "Kyjev"
@@ -402,7 +402,7 @@
  STATE_399: "Udmurtsko"
  STATE_400: "Kirov"
  STATE_401: "Balakovo"
- STATE_402: "Achtubinsk" # (!)
+ STATE_402: "Akťubinsk"
  STATE_403: "Ťumeň"
  STATE_404: "Kzyl-Orda"
  STATE_405: "Taškent"
@@ -760,7 +760,7 @@
  STATE_757: "Žikace" # Ž’-kcha-ce
  STATE_758: "Ngari"
  STATE_759: "Kchun-lun-šan" # Kchun-lun
- STATE_760:0 "Dabancheng"
+ STATE_760: "Ta-pan-čcheng" # (&?)
  STATE_761: "Chölönbujr" # (CZ) (&)
  STATE_762: "Katovice"
  STATE_763: "Kráľovec"
@@ -854,7 +854,7 @@
  STATE_851: "Var"
  STATE_852: "Istria"
  STATE_853: "Ľubľana"
- STATE_854:0 "Al Jawf"
+ STATE_854: "Al-Džawf"
  STATE_855: "Tabúk" # Tabuk
  STATE_856: "Asír-Mekka"
  STATE_857:1 "Al-Qassim"

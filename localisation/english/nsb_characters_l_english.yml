@@ -262,65 +262,65 @@
  POR_raul_brandao: "Raul Brandão"
 
  #NATIONALIST CHINA
- CHI_chiang_kaishek: "Čankajšek" # Ťiang Ťie-š’
- CHI_zhang_guotao:0 "Zhang Guotao"
- CHI_wang_jingwei:0 "Wang Jingwei"
- CHI_weng_wenhao:0 "Weng Wenhao"
- CHI_tu_yuming:0 "Tu Yu-ming"
- CHI_hsueh_yueh:0 "Hsueh Yueh"
- CHI_tai_anlan:0 "Tai An-lan"
- CHI_wang_yaowu:0 "Wang Yao-wu"
- CHI_sun_li_jen:0 "Sun Li Jen"
- CHI_hu_zongnan:0 "Hu Zongnan"
- CHI_gu_zhutong:0 "Gu Zhutong"
- CHI_wei_lihuang:0 "Wei Lihuang"
- CHI_fu_zuoyi:0 "Fu Zuoyi"
- CHI_zhang_xueliang:0 "Zhang Xueliang"
+ CHI_chiang_kaishek: "Čankajšek" # Čchiang Kaj-šek / Ťiang Ťie-š’
+ CHI_zhang_guotao: "Čang Kuo-tchao"
+ CHI_wang_jingwei: "Wang Ťing-wej"
+ CHI_weng_wenhao: "Weng Wen-chao"
+ CHI_tu_yuming:0 "Tu Jü-ming"
+ CHI_hsueh_yueh: "Süe Jüe"
+ CHI_tai_anlan: "Tchaj An-lan"
+ CHI_wang_yaowu: "Wang Jao-wu"
+ CHI_sun_li_jen:0 "Sun Li Ťen"
+ CHI_hu_zongnan: "Chu Cung-nan"
+ CHI_gu_zhutong: "Ku Ču-tung"
+ CHI_wei_lihuang: "Wej Li-chuang"
+ CHI_fu_zuoyi: "Fu Cuo-i"
+ CHI_zhang_xueliang: "Čang Süe-liang"
 
  #PEOPLE'S REPUBLIC OF CHINA
  PRC_mao_zedong: "Mao Ce-tung"
- PRC_peng_dehuai:0 "Peng Dehuai"
- PRC_lin_biao:0 "Lin Biao"
- PRC_kwong_hu:0 "Kwong Hu"
- PRC_luo_zhao:0 "Luo Zhao"
- PRC_liang_ma:0 "Liang Ma"
+ PRC_peng_dehuai: "Pcheng Te-chuaj"
+ PRC_lin_biao: "Lin Piao"
+ PRC_kwong_hu:0 "Kwong Chu"
+ PRC_luo_zhao: "Luo Čao"
+ PRC_liang_ma: "Liang Ma"
 
  #SINKIANG
  SIK_sheng_shicai: "Šeng Š’-cchaj"
- SIK_chiang_yufen:0 "Chiang Yu-fen"
- SIK_kwong_jin:0 "Kwong Jin"
- SIK_luo_wei:0 "Luo Wei"
- SIK_liang_jiang:0 "Liang Jiang"
+ SIK_chiang_yufen: "Čchiang Ju-fen"
+ SIK_kwong_jin:0 "Kwong Ťin"
+ SIK_luo_wei: "Luo Wej"
+ SIK_liang_jiang: "Liang Ťiang"
 
  #XIBEI SAN MA
- XSM_ma_bufang:0 "Ma Bufang"
- XSM_mao_sun:0 "Mao Sun"
- XSM_hsia_sun:0 "Hsia Sun"
- XSM_hsia_jin:0 "Hsia Jin"
+ XSM_ma_bufang: "Ma Pu-fang"
+ XSM_mao_sun: "Mao Sun"
+ XSM_hsia_sun: "Sia Sun"
+ XSM_hsia_jin: "Sia Ťin"
 
  #SHANXI
- SHX_wang_jingguo:0 "Wang Jingguo"
- SHX_luo_zhao:0 "Luo Zhao"
- SHX_liao_ting:0 "Liao Ting"
+ SHX_wang_jingguo: "Wang Ťing-kuo"
+ SHX_luo_zhao: "Luo Čao"
+ SHX_liao_ting: "Liao Tching"
 
  #GUANXI CLIQUE
- GXC_liu_peng:0 "Liu Peng"
- GXC_zhang_lu:0 "Zhang Lü"
- GXC_li_ting:0 "Li Ting"
+ GXC_liu_peng: "Liou Pcheng"
+ GXC_zhang_lu: "Čang Lü"
+ GXC_li_ting: "Li Tching"
 
  #YUNNAN
  YUN_long_yun: "Lung Jün"
- YUN_mao_dong:0 "Mao Dong"
- YUN_cheng_peng:0 "Cheng Peng"
- YUN_hsia_wu:0 "Hsia Wu"
+ YUN_mao_dong: "Mao Tung"
+ YUN_cheng_peng: "Čcheng Pcheng"
+ YUN_hsia_wu: "Sia Wu"
 
  #MANCHUKUO
  MAN_aisin_gioro_puyi: "Aisin Gioro Pchu-i" # Pchu I
- MAN_zhang_haipeng:0 "Zhang Haipeng"
- MAN_zhang_jinghui:0 "Zhang Jinghui"
- MAN_aisin_gioro_xiqia:0 "Aisin Gioro Xiqia"
+ MAN_zhang_haipeng: "Čang Chaj-pcheng"
+ MAN_zhang_jinghui: "Čang Ťing-chuej"
+ MAN_aisin_gioro_xiqia: "Aisin Gioro Si-čchia"
  MAN_yoshiko_kawashima:0 "Yoshiko Kawashima"
- MAN_zhao_shangzhi:0 "Zhao Shangzhi"
+ MAN_zhao_shangzhi: "Čao Šang-či"
  MAN_changlin_linge:0 "Changlin Linge"
 
  #USA

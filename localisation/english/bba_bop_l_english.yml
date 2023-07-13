@@ -1,11 +1,11 @@
 ﻿l_english:
- BOP_TOOLTIP:1 "The §Y[root.GetPowerBalanceName]§! is currently [?.root.power_balance_value|0%H] on the side of §Y[root.GetActiveSideName]§!"
- BOP_TOOLTIP_TREND:0 "The balance of power is currently trending towards the side of §Y[root.GetTrendingSideName]§! by [root.GetBopTrendTextIcon][root.GetChangeRateDesc].\n[root.GetPowerBalanceModDesc]"
+ BOP_TOOLTIP:1 "The §Y[ROOT.GetPowerBalanceName]§! is currently [?.ROOT.power_balance_value|0%H] on the side of §Y[ROOT.GetActiveSideName]§!"
+ BOP_TOOLTIP_TREND:0 "The balance of power is currently trending towards the side of §Y[ROOT.GetTrendingSideName]§! by [ROOT.GetBopTrendTextIcon][ROOT.GetChangeRateDesc].\n[ROOT.GetPowerBalanceModDesc]"
  BOP_TOOLTIP_STABLE:1 "The balance of power is currently stable."
- BOP_LEFT_SIDE_TOOLTIP:0 "[root.GetLeftSideName]"
- BOP_RIGHT_SIDE_TOOLTIP:0 "[root.GetRightSideName]"
- BOP_ACTIVE_RANGE_DESC:0 "[root.GetActiveRangeName]"
- BOP_ACTIVE_RANGE_TOOLTIP:0 "[root.GetActiveRangeModDesc][root.GetActiveRangeRuleDesc]"
+ BOP_LEFT_SIDE_TOOLTIP: "[ROOT.GetLeftSideName]"
+ BOP_RIGHT_SIDE_TOOLTIP: "[ROOT.GetRightSideName]"
+ BOP_ACTIVE_RANGE_DESC: "[ROOT.GetActiveRangeName]"
+ BOP_ACTIVE_RANGE_TOOLTIP: "[ROOT.GetActiveRangeModDesc][ROOT.GetActiveRangeRuleDesc]"
 
  BOP_CHANGE_RATE_DAILY:2 "$VALUE|2%H$ per day"
  BOP_CHANGE_RATE_WEEKLY:2 "$VALUE|2%H$ per week"

@@ -216,7 +216,7 @@
  tank_designer_amphibious_role_disallowed:0 "Add a module that allows the §HAmphibious§! role to be able to switch to it."
  tank_designer_anti_air:0 "Anti-Air"
  tank_designer_anti_air_role_disallowed:0 "Add a module that allows the §HAnti-Air§! role to be able to switch to it."
- tank_designer_artillery:0 "Artillery"
+ tank_designer_artillery: "Delostrelectvo"
  tank_designer_artillery_role_disallowed:0 "Add a module that allows the §HArtillery§! role to be able to switch to it."
  tank_designer_anti_tank:0 "Tank Destroyer"
  tank_designer_anti_tank_role_disallowed:0 "Add a module that allows the §HTank Destroyer§! role to be able to switch to it."

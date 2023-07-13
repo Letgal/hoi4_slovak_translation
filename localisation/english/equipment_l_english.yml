@@ -65,7 +65,7 @@
  EQUIPMENT_PARACHUTE:0 "Parachute"
  EQUIPMENT_SUPPORT:0 "Support"
  EQUIPMENT_ANTI_AIR:0 "Anti-Air"
- EQUIPMENT_ARTILLERY:0 "Artillery"
+ EQUIPMENT_ARTILLERY: "Delostrelectvo"
  EQUIPMENT_ANTI_TANK:0 "Anti-Tank"
  EQUIPMENT_ROCKET:0 "Rocket"
  EQUIPMENT_FLAME:0 "Flame"
@@ -2914,7 +2914,7 @@
  anti_tank_equipment_1_short:0 "Anti-Tank"
  anti_tank_equipment_1_desc:0 "Artillery specialized in defeating armored targets like Tanks, it generally fires armor piercing shells."
  artillery_equipment:0 "Towed Artillery"
- artillery_equipment_short:0 "Artillery"
+ artillery_equipment_short: "Delostrelectvo"
  artillery_equipment_desc:0 "Artillery refers to large-caliber weapons, such as cannons and howitzers that are operated by crews, which can project munitions far beyond the effective range of personal weapons."
 
  #artillery
@@ -3078,7 +3078,7 @@
  RAJ_rocket_artillery_equipment_2_short:0 "RP-3 HE/SAP"
 
  artillery_equipment_1:0 "Towed Artillery"
- artillery_equipment_1_short:0 "Artillery"
+ artillery_equipment_1_short: "Delostrelectvo"
  artillery_equipment_1_desc:0 "Artillery refers to large-caliber weapons, such as cannons and howitzers that are operated by crews, which can project munitions far beyond the effective range of personal weapons."
  rocket_artillery_equipment_1:0 "Towed Rocket Artillery"
  rocket_artillery_equipment_1_short:0 "Rocket Artillery"

@@ -460,7 +460,7 @@
  JAP_purge_the_kodoha_faction_desc:0 "A new faction has appeared, intent to take control of the government and strike north into the Soviet Union. We must eliminate them before they can do too much damage."
  JAP_liaison_conference:0 "Liaison Conference"
  JAP_liaison_conference_desc:0 "By sending liaisons of all branches of government and of the military to a central conference, we can greatly increase our decision-making speed."
- JAP_greater_east_asian_co_prosperity_sphere:0 "Greater East-Asian Co-Prosperity Sphere"
+ JAP_greater_east_asian_co_prosperity_sphere: "Veľká východoázijská sféra vzájomnej prosperity"
  JAP_greater_east_asian_co_prosperity_sphere_desc:0 "The time of Western imperialism has come to an end. The peoples of Asia must band together and stand as a strong, unified continent, under our leadership. Asia for the Asiatics!"
  JAP_intervene_in_china:1 "Marco Polo Bridge Incident"
  JAP_intervene_in_china_desc:1 "[Root.GetNameDefCap] is poor in resources, but our neighbours are not. We must take from them what we lack, and only require an excuse to begin doing so. Such an excuse could be provided by a few enterprising soldiers, after which the Emperor will have no choice but to assent to a war, no matter how ill-prepared..."

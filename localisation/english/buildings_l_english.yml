@@ -63,7 +63,7 @@
  BUILDING_DAMAGED:0 "Damaged levels: $DAMAGED|-$/$CURRENT|H$"
  CAPACITY: "$VAL$/$MAX$"
  CAPACITY_PLUS: "$VAL$+$PLUS$/$MAX$"
- AIR_BASE_LEVEL: "§HLetecká základňa§! na území $NAME|H$, úroveň: $VAL|H$"
+ AIR_BASE_LEVEL: "§HLetecká základňa§! na území $NAME|H$, úroveň: §H$VAL$.§!"
  AIR_BASE_LEVEL_UNKNOWN: "§HLetecká základňa§! na území $NAME|H$"
  ROCKET_SITE_CAPACITY:0 "Capacity: $VAL$/$MAX$"
  NAVAL_BASE_LEVEL_UNKNOWN: "§YNámorná základňa§!"
@@ -72,7 +72,7 @@
  NAVAL_BASE_CAPACITY:0 "Capacity: $USED|1G$/$TOTAL|0G$"
  NAVAL_BASE_CAPACITY_OVER:0 "Capacity: $USED|1R$/$TOTAL|0R$"
  NAVAL_BASE_CAPACITY_PENALTY:0 "Repair power capacity penalty: $PENALTY|%0R$"
- BUILDING_LEVEL: "§TÚzemná úroveň: $LEVEL|H$§!" # Úroveň na území
+ BUILDING_LEVEL: "§TÚzemná úroveň: §H$LEVEL$.§!§!" # Úroveň na území
  BUILDING_CURRENT_MAX_LEVEL_CAPPED:0 "Building current max level limited by:"
  BUILDING_CURRENT_MAX_LEVEL_NONCAPPED:0 "Building current max level is not limited."
  BUILDING_CURRENT_MAX_LEVEL_CAPPED_MANPOWER:0 "State population: $MANPOWER|*Y$"

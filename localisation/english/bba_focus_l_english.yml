@@ -1892,7 +1892,7 @@
  SWI_tank_development_desc:0 "We cannot let our guard down in the development of new and improved tanks, or else we risk wasting the steel on useless and obsolete metal turtles."
  SWI_mechanized_support:0 "Mechanized Support"
  SWI_mechanized_support_desc:0 "Our soldiers need to get to the battlefield faster than ever, and so the support they require, otherwise all that expedience would all be for nothing."
- SWI_artillery:0 "Swiss Artillery"
+ SWI_artillery: "Švajčiarske delostrelectvo"
  SWI_artillery_desc:0 "Let the shells rain on our enemies as our forces advance. Artillery will allow [ROOT.GetNonIdeologyName] to defend from the mountains and charge forward in the most effective way, crushing the opposition under a shower of lead."
  SWI_industrial_production:0 "Industrial Production"
  SWI_industrial_production_desc:0 "We cannot ignore the home front. Every able body in the cantons of [ROOT.GetNonIdeologyName] must be willing to sacrifice themselves for our machinery of war."

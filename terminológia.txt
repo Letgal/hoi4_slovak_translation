@@ -1,0 +1,11 @@
+National focus :: Národné zameranie
+Decision       :: Rozhodnutie
+Event          :: Udalosť
+
+Armáda       :: Army
+Námorníctvo  :: Navy
+Vzdušné sily :: Air Force
+
+Claim      :: Nárok
+Owner      :: Majiteľ
+Controller :: Ovládač

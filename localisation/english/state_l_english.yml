@@ -1,7 +1,7 @@
 ﻿l_english:
  STATE_UPGRADE_BUILDING:0 "Upgrade $BUILDING|H$."
  STATE_UPGRADE_BUILDING_DESC:0 "Days to construct: $COST|H$"
- STATE_BUILDING_LEVEL: "$BUILDING|H$ (územná úroveň: $LEVEL|H$)"
+ STATE_BUILDING_LEVEL: "$BUILDING|H$ (územná úroveň: §H$LEVEL$.§!)"
  STATE_BUILDING_LEVEL_SHARED_SLOTS:0 "$LEVEL|H$ $BUILDING|H$"
  STATE_BUILDING_INCONSTRUCTION:0 "Under construction: $LEVEL|H$"
  STATE_BUILDING_SLOT_TECH:0 "We have no intel on civilian infrastructure in this state"

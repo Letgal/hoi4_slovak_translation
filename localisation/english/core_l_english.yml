@@ -1114,7 +1114,7 @@
  PROVINCE_ROCKET_TOOLTIP: "Kapacita raketového miesta: $CAPACITY|H$"
  PROVINCE_TERRAIN_TOOLTIP: "Terén: $NAME|Y$"
  PROVINCE_WEATHER_HEADER: "Počasie:"
- PROVINCE_CLICK_VIEW:0 "§GClick§! to §Yview State§!."
+ PROVINCE_CLICK_VIEW: "§GKliknutím§! §Yzobrazite územie§!."
  PROVINCE_UNIT_MOVE_NO_TIME:1 "§RThere is no available land route to this province.§!"
  PROVINCE_UNIT_MOVE_NO_RAILWAY:1 "§RThere is no available converted railway route to this province.§!"
  PROVINCE_UNIT_ATTACK_FROM_NEUTRAL:0 "§RArmies cannot attack the enemy from the neutral country.§!"

@@ -456,7 +456,7 @@
  STATE_453: "Sinaj"
  STATE_454: "Palestína"
  STATE_455: "Jordánsko"
- STATE_456: "Aswán"
+ STATE_456: "Aswán" # Asuán
  STATE_457: "Východná púšť"
  STATE_458: "Tunisko"
  STATE_459: "Alžír"
@@ -772,7 +772,7 @@
  STATE_769: "Burundi"
  STATE_770: "Malawi"
  STATE_771: "Zambia"
- STATE_772: "Stredné Kongo" # Middle non Central
+ STATE_772: "Stredné Kongo" # Middle, not Central
  STATE_773: "Kamerun"
  STATE_774: "Čad"
  STATE_775: "B.-E.-T."

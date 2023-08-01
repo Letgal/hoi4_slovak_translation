@@ -1,11 +1,27 @@
-National focus :: Národné zameranie
-Decision       :: Rozhodnutie
-Event          :: Udalosť
+Stability   :: Stabilita
+War Support :: Vojnová podpora
+Manpower    :: Ľudská sila
 
-Armáda       :: Army
-Námorníctvo  :: Navy
-Vzdušné sily :: Air Force
+National {focus} :: Národné {zameranie}
+Decision         :: Rozhodnutie
+Event            :: Udalosť
+News [event]     :: Noviny (novinná udalosť)
+Balance of power :: Rovnováha síl
 
-Claim      :: Nárok
-Owner      :: Majiteľ
-Controller :: Ovládač
+Trigger  :: Spúšťač
+Effect   :: Účinok (change needed?)
+Modifier :: Modifikátor
+
+Army       :: Armáda
+Army Group :: Armádna skupina
+Theater    :: Dejisko
+Navy       :: Námorníctvo
+Fleet      :: Flotila
+Air Force  :: Vzdušné sily
+Air Wing   :: Vzdušné krídlo
+
+State        :: Územie
+{Core} state :: {Core} územie (change needed)
+Claim        :: Nárok
+Owner        :: Majiteľ
+Controller   :: Ovládač

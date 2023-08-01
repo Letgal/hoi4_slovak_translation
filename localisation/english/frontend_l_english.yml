@@ -94,7 +94,7 @@
  SM_TEX_QUALITY_HIGH: "Vysoká"
  SM_UI_SCALING: "Škálovanie UI (experimentálne)"
  SM_CITIES: "Mestá"
- SM_UNITS:0 "3D Units"
+ SM_UNITS:0 "3D-jednotky"
  SM_BUILDINGS: "3D-budovy"
  SM_RIVERS: "Rieky"
  SM_HIGH_GFX_SHADERS: "Vysoko kvalitné pixel shadery"

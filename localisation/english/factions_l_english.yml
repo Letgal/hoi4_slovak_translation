@@ -7,13 +7,13 @@
  FACTION_NAME_GER_none: "Os"
  FACTION_NAME_IDEOLOGY_DEFAULT:0 "Supporters of $IDEOLOGY$"
  french_alliance: "Francúzska aliancia"
- the_berlin_moscow_axis: "Os Berlin–Moskva"
+ the_berlin_moscow_axis: "Os Berlin-Moskva"
  domination_francaise: "Domination Française"
  french_entente_alliance:0 "French-Entente Alliance"
- daitoa_kyoeiken:0 "Daitoa Kyoeiken"
+ daitoa_kyoeiken: "Veľká východoázijská sféra vzájomnej prosperity"
  italy_empire_faction: "Nová Rímska ríša"
  chinese_united_front: "Čínsky spojený front"
- miedzymorze_faction: "Międzymorze" # Medzimorie
+ miedzymorze_faction: "Medzimorie" # Międzymorze
  Allies: "Spojenci"
  Axis: "Os"
  Comintern: "Kominterna"

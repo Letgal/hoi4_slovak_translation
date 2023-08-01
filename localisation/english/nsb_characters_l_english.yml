@@ -1,15 +1,15 @@
 ﻿l_english:
  #SOVIET UNION
  SOV_iosif_stalin: "Josif Stalin"
- SOV_konstantin_rodzayevsky:0 "Konstantin Rodzayevsky"
- SOV_aleksandr_kerensky:0 "Aleksandr Kerensky"
+ SOV_konstantin_rodzayevsky: "Konstantin Rodzajevskij"
+ SOV_aleksandr_kerensky: "Alexandr Kerenskij"
  SOV_supreme_soviet:0 "The Supreme Soviet"
  SOV_provisional_government: "Dočasná vláda"
 
- SOV_georgy_zhukov:0 "Georgy Zhukov"
- SOV_konstantin_rokossovsky:0 "Konstantin Rokossovsky"
- SOV_aleksandr_vasilevsky:0 "Aleksandr Vasilevsky"
- SOV_boris_shaposhnikov:0 "Boris Shaposhnikov"
+ SOV_georgy_zhukov: "Georgij Žukov"
+ SOV_konstantin_rokossovsky: "Konstantin Rokossovskij"
+ SOV_aleksandr_vasilevsky: "Alexandr Vasilevskij"
+ SOV_boris_shaposhnikov: "Boris Šapošnikov"
  SOV_nikolay_vatutin:0 "Nikolay Vatutin"
  SOV_ivan_konev:0 "Ivan Konev"
  SOV_semyon_timoshenko:0 "Semyon Timoshenko"

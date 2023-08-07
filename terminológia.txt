@@ -25,3 +25,5 @@ State        :: Územie
 Claim        :: Nárok
 Owner        :: Majiteľ
 Controller   :: Ovládač
+
+Combat Width :: Bojová šírka

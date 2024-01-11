@@ -2,7 +2,7 @@ Stability   :: Stabilita
 War Support :: Vojnová podpora
 Manpower    :: Ľudská sila
 
-National {focus} :: Národné {zameranie}
+[National] focus :: [Národné] zameranie
 Decision         :: Rozhodnutie
 Event            :: Udalosť
 News [event]     :: Noviny (novinná udalosť)
@@ -24,7 +24,7 @@ Theater          :: Dejisko
 Strategic region :: Strategický región
 State            :: Územie
 Province         :: Provincia
-{Core} state     :: {Core} územie (change needed)
+Core [state]     :: Základové územie (základ)
 Claim            :: Nárok
 Owner            :: Majiteľ
 Controller       :: Ovládač

@@ -1,6 +1,6 @@
 ﻿l_english:
- TRIGGER_AND_STARTS:0 "Všetko nasledujúce musí byť pravdivé" # Musí byť splnená jedna z nasledujúcich podmienok
- TRIGGER_OR_STARTS:0 "Jedno z nasledujúcich musí byť pravdivé" # Musia byť splnené všetky nasledujúce podmienky
+ TRIGGER_AND_STARTS: "Všetko nasledujúce musí byť pravdivé" # Musí byť splnená jedna z nasledujúcich podmienok
+ TRIGGER_OR_STARTS: "Jedno z nasledujúcich musí byť pravdivé" # Musia byť splnené všetky nasledujúce podmienky
  or_clarification_tooltip:0 "If §Yneither§! of the above is true"
 
  TRIGGER_ALL_COUNTRY_STARTS: "Všetky krajiny"
@@ -30,13 +30,13 @@
  TRIGGER_ANY_STATE_STARTS: "Akékoľvek územie"
  TRIGGER_ALL_OWNED_STATE_STARTS: "Všetky ovládané územia"
  TRIGGER_ANY_OWNED_STATE_STARTS: "Akékoľvek ovládané územie"
- TRIGGER_ALL_CONTROLLED_STATE_STARTS:0 "Všetky controlled územia"
- TRIGGER_ANY_CONTROLLED_STATE_STARTS:0 "Akékoľvek controlled územie"
- TRIGGER_ALL_CORE_STATE_STARTS:0 "Všetky core územia"
- TRIGGER_ANY_CORE_STATE_STARTS:0 "Akékoľvek core územie"
+ TRIGGER_ALL_CONTROLLED_STATE_STARTS: "Všetky kontrolované územia"
+ TRIGGER_ANY_CONTROLLED_STATE_STARTS: "Akékoľvek kontrolované územie"
+ TRIGGER_ALL_CORE_STATE_STARTS: "Všetky základové územia"
+ TRIGGER_ANY_CORE_STATE_STARTS: "Akékoľvek základové územie"
  TRIGGER_ALL_NEIGHBOR_STATE_STARTS: "Všetky susedné územia"
  TRIGGER_ANY_NEIGHBOR_STATE_STARTS: "Akékoľvek susedné územie"
- TRIGGER_ALL_PROVINCE: "Všetky provincia: "
+ TRIGGER_ALL_PROVINCE: "Všetky provincie: "
  TRIGGER_ANY_PROVINCE: "Akákoľvek provincie: "
 
  TRIGGER_ALL_UNIT_LEADER_STARTS:0 "All Unit Leaders"
@@ -89,8 +89,8 @@
  TRIGGER_MODIFIER_LIST_ENTRY: "$MODIFIER|H$"
  TRIGGER_COUNTRY_IS: "Krajinou je $NAME|Y$"
  TRIGGER_COUNTRY_IS_NOT: "Krajinou nie je $NAME|Y$"
- TRIGGER_ALWAYS_TRUE:0 "Always true"
- TRIGGER_ALWAYS_FALSE:0 "Always false"
+ TRIGGER_ALWAYS_TRUE: "Vždy pravda"
+ TRIGGER_ALWAYS_FALSE: "Vždy nepravda"
  TRIGGER_HAS_IDEA_COUNTRY: "Má národný duch $IDEA|H$"
  TRIGGER_HAS_NOT_IDEA_COUNTRY: "Nemá národný duch $IDEA|H$"
  TRIGGER_HAS_IDEA_MOBILIZATION_LAWS: "Má zákon o brannej povinnosti: $IDEA|H$"
@@ -341,8 +341,8 @@
  TRIGGER_HAS_AVAILABLE_IDEA_WITH_TRAITS:0 "Has at least $LIMIT|H$ ideas with $TRAITS|H$ traits"
  TRIGGER_STATE_CLAIMED_BY_COUNTRY:1 "Is claimed by $COUNTRY|H$"
  TRIGGER_STATE_NOT_CLAIMED_BY_COUNTRY:1 "Is not claimed by $COUNTRY|H$"
- TRIGGER_STATE_CORE_OF_COUNTRY: "Je core územím krajiny $COUNTRY|H$"
- TRIGGER_STATE_NOT_CORE_OF_COUNTRY: "Nie je core územím krajiny $COUNTRY|H$"
+ TRIGGER_STATE_CORE_OF_COUNTRY: "Je základovým územím krajiny $COUNTRY|H$"
+ TRIGGER_STATE_NOT_CORE_OF_COUNTRY: "Nie je základovým územím krajiny $COUNTRY|H$"
  TRIGGER_IS_AI: "Krajinu $COUNTRY|H$ kontroluje AI"
  TRIGGER_IS_NOT_AI: "Krajinu $COUNTRY|H$ nekontroluje AI"
  TRIGGER_HAS_OPEN_BUILDING_SLOTS:0 "Can build $TARGET|H$ more $TYPE$\n"

@@ -1,5 +1,5 @@
 Stability   :: Stabilita
-War Support :: Vojnová podpora
+War support :: Vojnová podpora
 Manpower    :: Ľudská sila
 
 [National] focus :: [Národné] zameranie
@@ -13,25 +13,31 @@ Effect   :: Účinok (change needed?)
 Modifier :: Modifikátor
 
 Army       :: Armáda
-Army Group :: Armádna skupina
+Army group :: Armádna skupina
 Theater    :: Dejisko
 Navy       :: Námorníctvo
 Fleet      :: Flotila
-Air Force  :: Vzdušné sily
-Air Wing   :: Vzdušné krídlo
+Air force  :: Vzdušné sily
+Air wing   :: Vzdušné krídlo
 
-Theater          :: Dejisko
 Strategic region :: Strategický región
 State            :: Územie
 Province         :: Provincia
 Core [state]     :: Základové územie (základ)
 Claim            :: Nárok
+Claimed state    :: Nárokované územie
+Colony           :: Kolónia
 Owner            :: Majiteľ
 Controller       :: Ovládač
 
-Combat Width  :: Bojová šírka
+Combat width  :: Bojová šírka
 Training time :: Čas na výcvik
 
+# AUTONÓMIA #
+Subject [country] :: Podriadená krajina (podriadenec)
+Puppet [country]  :: Bábková krajina (bábka)
+
+# OKUPACIA #
 Garrison   :: Garnizón
 Resistance :: Odpor
 Compliance :: Podriadenosť

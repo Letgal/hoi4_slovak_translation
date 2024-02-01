@@ -271,7 +271,7 @@
  SOV_DANZIG_GUARANTEES_REDS_DESC_NEUTRALITY:0 "from the East"
  GER_safeguard_the_baltic:0 "Safeguard the Baltic"
  GER_safeguard_the_baltic_desc:1 "The Baltics were a part of the Russian Empire until a few decades ago, and it stands to reason the [GER.GetRussiansDemonym] may once more try to annex them. We must prevent this, and offer our military support in case of [SOV.GetAdjective] invasion."
- GER_support_the_finns: "Podporovať finov"
+ GER_support_the_finns: "Podporiť finov"
  GER_support_the_finns_desc:1 "The Finns find themselves in the firing line of the [GER.GetRussiansDemonym]. We will offer them a guarantee against the communist threat, and give them some modest industrial aid."
  GER_anti_comintern_pact_unaligned:0 "Ideological Defenses"
  GER_anti_comintern_pact_unaligned_desc:0 "The military threat is not the only danger we are subjected to. We must look to ways to keep communism at bay, itself, and to that end we will create a pact with our fellow non-communists, resolving to combating its advance."

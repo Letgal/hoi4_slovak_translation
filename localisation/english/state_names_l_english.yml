@@ -541,8 +541,8 @@
  STATE_538: "Coquilhatville"
  STATE_539: "Gabon"
  STATE_540: "Luanda"
- STATE_541:1 "Khomas"
- STATE_542:0 "Bechuanaland"
+ STATE_541: "Khomas"
+ STATE_542: "Bečuánsko"
  STATE_543: "Madagaskar"
  STATE_544: "Lourenço-Marques"
  STATE_545: "Rodézia"
@@ -605,7 +605,7 @@
  STATE_602: "Chu-nan"
  STATE_603: "Kuej-čou"
  STATE_604: "Čching-chaj"
- STATE_605: "S’-čchuan"
+ STATE_605: "S'-čchuan"
  STATE_606: "An-chuej"
  STATE_607: "Che-nan"
  STATE_608: "Peking" # Pei-ťing
@@ -678,7 +678,7 @@
  STATE_675:0 "Al Hajara"
  STATE_676: "Mosul"
  STATE_677: "Aleppo"
- STATE_678: "Ar-Rub’ al-Chálí" # Rub’ al-Chálí
+ STATE_678: "Ar-Rub' al-Chálí" # Rub' al-Chálí
  STATE_679: "Medina" # Medína
  STATE_680: "Dajr az-Zaur"
  STATE_681: "Kapská kolónia"
@@ -752,12 +752,12 @@
  STATE_749: "Chuang-šan"
  STATE_750: "Čchang-te"
  STATE_751: "Liang-šan"
- STATE_752: "Kan-c’"
+ STATE_752: "Kan-c'"
  STATE_753: "Kan-nan"
  STATE_754: "Golog"
  STATE_755: "Chaj-si"
  STATE_756: "Ťiou-čchüan"
- STATE_757: "Žikace" # Ž’-kcha-ce
+ STATE_757: "Žikace" # Ž'-kcha-ce
  STATE_758: "Ngari"
  STATE_759: "Kchun-lun-šan" # Kchun-lun
  STATE_760: "Ta-pan-čcheng" # (&?)
@@ -857,7 +857,7 @@
  STATE_854: "Al-Džawf"
  STATE_855: "Tabúk" # Tabuk
  STATE_856: "Asír-Mekka"
- STATE_857:1 "Al-Qassim"
+ STATE_857: "Al-Qassim"
  STATE_858: "Nadžrán"
  STATE_859: "Dammám"
  STATE_860: "Côte-Nord"
@@ -899,12 +899,12 @@
  STATE_896: "Manica a Sofala"
  STATE_897: "Zambezia-Moçambique"
  STATE_898: "Gao"
- STATE_899:0 "Kayes-Koulikoro"
+ STATE_899: "Kayes-Koulikoro"
  STATE_900: "Benue"
  STATE_901: "Borno"
  STATE_902: "Sokoto"
  STATE_903: "Garissa"
- STATE_904:0 "Nyanza-Rift Valley"
+ STATE_904: "Nyanza-Rift Valley"
  STATE_905: "Mombasa"
  STATE_906: "Sokotra"
  STATE_907: "Káhira"

@@ -70,7 +70,7 @@
  POLITICS_SUCCESS_PROGRESS:0 "Goal success at: $PROGRESS|Y%0$"
  POLITICAL_POLITICAL: "Politika"
  MANAGE_OCCUPIED_TERRITORIES: "Okupované teritóriá"
- MANAGE_SUBJECTS: "Spravovať podriadencov"
+ MANAGE_SUBJECTS: "Podriadenci"
  manage_occupied_territories_no_occupation:0 "§RYou are not occupying any non-core territory at the moment.§!"
  MANAGE_OCCUPIED_TERRITORIES_HEADER: "Cudzie teritóriá"
  MANAGE_EXILED_GOVERNMENTS:0 "Exiled Governments"

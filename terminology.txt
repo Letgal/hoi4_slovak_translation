@@ -1,6 +1,7 @@
-Stability   :: Stabilita
-War support :: Vojnová podpora
-Manpower    :: Ľudská sila
+Political power :: Politicka moc
+Stability       :: Stabilita
+War support     :: Vojnová podpora
+Manpower        :: Ľudská sila
 
 [National] focus :: [Národné] zameranie
 Decision         :: Rozhodnutie

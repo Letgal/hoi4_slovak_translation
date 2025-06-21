@@ -1,0 +1,1 @@
+# Slovenský preklad *Hearts of Iron IV*

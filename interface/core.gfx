@@ -330,6 +330,14 @@ spriteTypes = {
 		texturefile = "gfx//interface//icon_instagram.dds"
 	}
 	spriteType = {
+		name = "bluesky"
+		texturefile = "gfx/interface/icon_bluesky.dds"
+	}
+	spriteType = {
+		name = "x"
+		texturefile = "gfx/interface/icon_x.dds"
+	}
+	spriteType = {
 		name = "homepage"
 		texturefile = "gfx//interface//icon_homepage.dds"
 		noOfFrames = 1
@@ -596,6 +604,18 @@ spriteTypes = {
 		effectFile = "gfx/FX/buttonstate.lua"
 	}
 
+	frameAnimatedSpriteType = {
+		name = "GFX_leader_selection_button_glow"
+		texturefile = "gfx//interface//leader_selection_button_glow.dds"
+		noOfFrames = 2
+		animation_rate_fps = 1
+		looping = yes
+		play_on_show = yes
+		pause_on_loop = 0.0
+		alwaystransparent = yes
+		effectFile = "gfx/FX/buttonstate_blendframes.lua"
+	}	
+
 	textSpriteType = {
 		name = "GFX_button_reset_123x34"
 		texturefile = "gfx//interface//button_reset_123x34.tga"
@@ -625,11 +645,23 @@ spriteTypes = {
 	}
 
 	spriteType = {
+		name = "GFX_icon_button_45x32"
+		texturefile = "gfx/interface/buttons/icon_button_45x32.dds"
+		noOfFrames = 2
+	}
+	
+	spriteType = {
 		name = "GFX_icon_button_46x46"
 		texturefile = "gfx/interface/buttons/icon_button_46x46.dds"
 		noOfFrames = 2
 	}
 	
+	spriteType = {
+		name = "GFX_add_all_button_32x32"
+		texturefile = "gfx/interface/buttons/add_all_button_32x32.dds"
+		noOfFrames = 2
+	}	
+
 	spriteType = {
 		name = "GFX_icon_button_32x32"
 		texturefile = "gfx/interface/buttons/icon_button_32x32.dds"
@@ -728,7 +760,7 @@ objectTypes = {
 		textblock = {
 			text = "txt"
 			color = { 0.9 0.9 0.0 }
-			font = "DebugFont"
+			font = "hoi_36header"
 			position = { x=0 y=40 }
 			size = { x=1256 y = 164  }
 			format = centre
@@ -1432,8 +1464,8 @@ bitmapfonts = {
 #		path = "gfx/fonts/hoi_30header"
 		fontfiles = {
 			"gfx/fonts/hoi_30header"
-#			"gfx/fonts/hoi_26mbs"
-#			"gfx/fonts/hoi_26mbs_cryllic"
+#			"gfx/fonts/hoi_20bs"
+#			"gfx/fonts/hoi_20bs_cryllic"
 		}
 		color = 0xffffffff
 
@@ -1515,7 +1547,7 @@ bitmapfonts = {
 	}
 
 	bitmapfont_override = {
-		name = "hoi_36header"
+		name = "nsb_hoi_36header"
 		fontfiles = {
 			"gfx/fonts/hoi_26mbs"
 			"gfx/fonts/hoi_26mbs_cryllic"
@@ -1767,4 +1799,40 @@ bitmapfonts = {
 		name = "GFX_red_cross_small"
 		textureFile = "gfx//interface//red_cross_small.dds"
 	}
+	
+	textSpriteType = {
+		name = "GFX_preset_button_open"
+		texturefile = "gfx//interface//equipmentdesigner//preset_button.dds"
+		noOfFrames = 4
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	
+	textSpriteType = {
+		name = "GFX_preset_button_import"
+		texturefile = "gfx//interface//equipmentdesigner//preset_import_button.dds"
+		noOfFrames = 4
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	
+	textSpriteType = {
+		name = "GFX_preset_button_export"
+		texturefile = "gfx//interface//equipmentdesigner//preset_export_button.dds"
+		noOfFrames = 4
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	
+	textSpriteType = {
+		name = "GFX_preset_button_save"
+		texturefile = "gfx//interface//equipmentdesigner//save_preset_button.dds"
+		noOfFrames = 4
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	
+	textSpriteType = {
+		name = "GFX_edit_designer_notes_button"
+		texturefile = "gfx//interface//equipmentdesigner//edit_notes_button.dds"
+		noOfFrames = 4
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	
 }
